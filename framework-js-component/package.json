@@ -2,7 +2,7 @@
   "name": "framework-js-component",
   "version": "1.0.0",
   "description": "Example of a js package for use in Framework",
-  "main": "src/main.js",
+  "main": "dist/bundle.js",
   "files": [
     "dist/*",
     "README.md",
