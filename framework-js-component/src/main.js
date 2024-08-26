@@ -1,5 +1,5 @@
 // src/main.js
 import foo from './foo.js';
-export default function main () {
+export default function bar () {
 	console.log(foo);
 }

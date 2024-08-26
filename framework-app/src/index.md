@@ -3,11 +3,11 @@ toc: false
 ---
 
 ```js
-import main from 'framework-js-component';
+import bar from 'framework-js-component';
 ```
 
 ```js
-console.log(main);
+console.log(bar);
 ```
 
 <div class="hero">
